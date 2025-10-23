@@ -1,0 +1,6 @@
+.dataset/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
+*.tar.gz
+*.zip
