@@ -1,5 +1,9 @@
+# Ignore dataset folders
 .dataset/
+_dataset_temp/
 dataset/
+
+# Ignore common temp stuff
 __pycache__/
 .ipynb_checkpoints/
 *.tar.gz
